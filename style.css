@@ -1,0 +1,190 @@
+body {
+    background: #ffffff;
+    padding: 100px;
+    text-align: center;
+    font-family: 'Quicksand' sans-serif;
+}
+ul {
+    margin-left: -45px;
+    padding-top: 3%;
+}
+
+.main {
+    width: 800px;
+    height: 520px;
+    background-color: rgb(143, 144, 156);
+    margin: auto;
+    border-radius: 60px;
+}
+.img {
+    background-image: url(img.jpg);
+    background-color: black;
+    background-size: cover;
+    border-radius: 500px;
+    width:  150px;
+    height: 150px;
+    margin: 0 auto;
+    border: 1px #160707;
+}
+h1 {
+    font-family: sans-serif;
+    font-size: 20px;
+    margin: auto;
+    color: #000000
+}
+.text {
+    text-align: center;
+    color: #030303;
+    padding: 5px;
+    font-size: 15px;
+    margin-bottom: 50px
+}
+p {
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 16px;
+    padding: 80px;
+    padding-top: 10px;
+    width: 550px;
+    height: 20px;
+    color: #000000
+}
+li {
+    padding: 2px;
+    font-family: sans-serif;
+    margin-right: 2%;
+    text-decoration: underline;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.nav 
+
+ul {
+    list-style-type: none;
+    text-align: left;
+    padding: 15px;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+}
+
+li {
+    margin-right: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(255, 232, 232);
+    display: block;
+}
+
+a img {
+    width: 30px;
+    height: 30px;
+}
+
+a:hover {
+    opacity: 0.7;
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+nav {
+   background-color: #2d2a47;
+   width: 200px;
+   border-radius: 50px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+li {
+    margin-right: 1px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    padding: 10px 15px;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+a:hover {
+    background-color: #ffeaea;
+}
+
+.sosial {
+    font-style: italic;
+    font-weight: 1000px;
+    height: auto;
+    text-align: left;
+    font-size: 30px;
+    
+}
+.fb {
+    display: inline-block;
+    text-align: center;
+}
+h3 {
+    font-family: sans-serif;
+    text-align: left;
+
+}
+.informasi {
+    text-align: left;
+}
+.pendidikan {
+    text-align: start;
+    font-size: 15px;
+    letter-spacing: 1px;
+    margin: 0 auto;
+}
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+.navbar {
+    overflow: hidden;
+    background-color: #333;
+}
+.navbar a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+}
+.navbar a:hover {
+    background-color: #ddd;
+    color: black;
+}
+.navbar a.active {
+    background-color: #04AA6D;
+    color: white;
+}
+.cons {
+   text-align: start;
+   font-size: 15px;
+   letter-spacing: 1px;
+   margin: auto;
+}
+.br {
+    height: 30px;
+   
+}
+.container {
+   background-position: 0cm;
+}
